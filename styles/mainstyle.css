@@ -1,0 +1,11 @@
+body{background-color: #FFFBF5;}
+hr {border-color: #C3ACD0;
+    background-color: #FFFBF5;
+    border-style: none;
+    border-top-style: dotted;
+    border-top-width: 5px;
+    width: 10%;}
+h1, h2, h3 {color:#674188;}
+img:hover {background-color: #5c0707;
+    border-radius: 20%;
+}
